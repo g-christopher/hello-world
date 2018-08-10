@@ -1,0 +1,9 @@
+https://doi.crossref.org/servlet/query?usr=GrantChristopher&pwd=gbh28A411&format=unixref&qdata=<?xml version="1.0"?><query_batch version="2.0"...
+https://doi.crossref.org/servlet/query?pid=grant.christopher@kcl.ac.uk&id=10.1016/j.jksues.2012.05.002
+https://doi.crossref.org/servlet/query?usr=grantchristopher&pwd=gbh28A411&id=10.1016/j.jksues.2012.05.002
+
+https://doi.crossref.org/servlet/query?pid=grant.christopher@kcl.ac.uk&id=10.1577/H02-043
+Beneficiation of Saudi phosphate ores by column flotation technology
+format=unixref&qdata=<?xml version="1.0"?><query_batch version="2.0"...
+
+http://doi.crossref.org/servlet/query?usr=grantchristopher&pwd=gbh28A411&qdata=<?xml version="1.0"?><query_batch version="2.0" xsi:schemaLocation="http://www.crossref.org/qschema/2.0 http://www.crossref.org/qschema/crossref_query_input2.0.xsd" xmlns="http://www.crossref.org/qschema/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><head><email_address>support@crossref.org</email_address><doi_batch_id>ABC_123_fff</doi_batch_id> </head> <body> <query key="1178517" enable-multiple-hits="false" forward-match="false"><issn match="optional">15360075</issn><journal_title match="exact">American Journal of Bioethics</journal_title><author match="fuzzy" search-all-authors="false">Agich</author><volume match="fuzzy">1</volume><issue>1</issue><first_page>50</first_page><year>2001</year><article_title>The Salience of Narrative for Bioethics</article_title></query></body></query_batch>
